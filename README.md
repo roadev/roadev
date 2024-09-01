@@ -12,5 +12,13 @@
   <a href="https://x.com/jroadev" target="_blank">
     <img src="https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white)" alt="Twitter Badge"/>
   </a>
+  <a href="https://stackoverflow.com/users/2574605/roadev" target="_blank">
+    <img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&style=for-the-badge&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://instagram.com/roadev" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&style=for-the-badge&logoColor=white" alt="Twitter Badge"/>
+  </a>
+
+  
 </div>
 
