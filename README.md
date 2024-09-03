@@ -17,8 +17,12 @@
   </a>
   <a href="https://instagram.com/roadev" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&style=for-the-badge&logoColor=white" alt="Twitter Badge"/>
-  </a>
-
-  
+  </a>  
 </div>
 
+<br />
+<div align="center">
+  <a href="https://github.com/anuraghazra/roadev">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=roadev&layout=compact&langs_count=10&card_width=320" />
+  </a>
+</div>
